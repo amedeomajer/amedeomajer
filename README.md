@@ -2,7 +2,7 @@
 
 I'm Amedeo software/full-stack developer.
 
-### 🔭 I’m currently working at [Hive Helsinki](https://www.hive.fi/) as full-stack/software developer bocal.
+### 🔭 I’m currently working at [Hive Helsinki](https://www.hive.fi/) as full-stack/software developer.
 
 ### 💻 Check these projects for starters
 
